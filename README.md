@@ -1,2 +1,2 @@
 # binary_printer
- Prints
+ Prints binary representation of objects
