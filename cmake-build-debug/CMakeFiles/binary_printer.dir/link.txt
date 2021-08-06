@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/binary_printer.dir/binary_printer.c.o  -o binary_printer.exe -Wl,--out-implib,libbinary_printer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

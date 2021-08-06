@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Menachem/Documents/CLionProjects/personal_projects/binary_printer/binary_printer.c
+binary_printer.h
+/cygdrive/c/Users/Menachem/Documents/CLionProjects/personal_projects/binary_printer/binary_printer.h
+limits.h
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/Menachem/Documents/CLionProjects/personal_projects/binary_printer/binary_printer.h
+stdio.h
+-
+

@@ -1,0 +1,4 @@
+C:\Users\Menachem\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make.exe -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -DCMAKE_CXX_COMPILER=/usr/bin/c++.exe -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/Menachem/Documents/CLionProjects/personal_projects/binary_printer
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Menachem/Documents/CLionProjects/personal_projects/binary_printer/cmake-build-debug
